@@ -6,7 +6,7 @@ package odbc
 
 import (
 	"fmt"
-	"github.com/lunny/godbc/api"
+	"github.com/zhangdongfarmer/godbc/api"
 	"strings"
 	"unsafe"
 )

@@ -8,7 +8,7 @@ import (
 	"database/sql"
 	"flag"
 	"fmt"
-	_ "github.com/lunny/godbc"
+	_ "github.com/zhangdongfarmer/godbc"
 	"testing"
 	"time"
 )

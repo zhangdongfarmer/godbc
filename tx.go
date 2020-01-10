@@ -7,7 +7,7 @@ package odbc
 import (
 	"database/sql/driver"
 	"errors"
-	"github.com/lunny/godbc/api"
+	"github.com/zhangdongfarmer/godbc/api"
 )
 
 type Tx struct {

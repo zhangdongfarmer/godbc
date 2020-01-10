@@ -8,7 +8,7 @@ import (
 	"database/sql/driver"
 	"errors"
 	"fmt"
-	"github.com/lunny/godbc/api"
+	"github.com/zhangdongfarmer/godbc/api"
 	"time"
 	"unsafe"
 )

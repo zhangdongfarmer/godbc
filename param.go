@@ -7,7 +7,7 @@ package odbc
 import (
 	"database/sql/driver"
 	"fmt"
-	"github.com/lunny/godbc/api"
+	"github.com/zhangdongfarmer/godbc/api"
 	"runtime"
 	"time"
 	"unsafe"
